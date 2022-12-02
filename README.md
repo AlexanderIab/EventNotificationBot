@@ -4,7 +4,7 @@ Not finished yet
 
 WebHook Bot
 
-Spring Boot /n
+Spring Boot
 Spring Web
 Spring Data JPA
 PostgreSQL
