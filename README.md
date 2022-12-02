@@ -1,0 +1,3 @@
+# EventNotificationBot
+
+Not finished yet
